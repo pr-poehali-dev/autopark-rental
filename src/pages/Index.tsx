@@ -365,7 +365,7 @@ export default function Index() {
               <div className="bg-white/10 backdrop-blur-lg p-6 rounded-xl">
                 <Icon name="Phone" size={32} className="mx-auto mb-4" />
                 <h3 className="font-bold mb-2">Телефон</h3>
-                <p>+7 (999) 123-45-67</p>
+                <p>+7 (777) 777-77-77</p>
               </div>
 
               <div className="bg-white/10 backdrop-blur-lg p-6 rounded-xl">
@@ -377,16 +377,13 @@ export default function Index() {
               <div className="bg-white/10 backdrop-blur-lg p-6 rounded-xl">
                 <Icon name="MapPin" size={32} className="mx-auto mb-4" />
                 <h3 className="font-bold mb-2">Адрес</h3>
-                <p>г. Москва, ул. Примерная, 1</p>
+                <p>г. Оренбург, ул. Мармеладова, 1</p>
               </div>
             </div>
 
             <div className="text-center">
               <p className="opacity-90 mb-4">Работаем ежедневно с 8:00 до 22:00</p>
-              <Button size="lg" variant="secondary" className="text-lg px-8">
-                <Icon name="MessageCircle" size={20} className="mr-2" />
-                Написать в WhatsApp
-              </Button>
+              <Button size="lg" variant="secondary" className="text-lg px-8">Написать в MAX</Button>
             </div>
           </div>
         </div>
@@ -394,7 +391,7 @@ export default function Index() {
 
       <footer className="bg-card border-t py-8">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
-          <p>© 2024 АвтоПрокат. Все права защищены.</p>
+          <p>© 2025 АвтоПрокат. Все права защищены.</p>
         </div>
       </footer>
     </div>
